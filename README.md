@@ -4,11 +4,11 @@
 
 🔭 **Studying** _ 웹개발(FE/BE), DataScience
 
-👯 **Interest** _ 그림, K-POP
+💬 **Interest** _ 그림, K-POP
 
 📫 **Email** _ sumikim323@naver.com
  
 <!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
