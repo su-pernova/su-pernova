@@ -1,8 +1,8 @@
 ### Hello 👋
 
-🔭 **Major in** _ 국제한국학, 컴퓨터공학
+🌱 **Major in** _ 국제한국학, 컴퓨터공학
 
-🌱 **Studying** _ 웹개발(FE/BE), DataScience
+🔭 **Studying** _ 웹개발(FE/BE), DataScience
 
 👯 **Interest** _ 그림, K-POP
 
