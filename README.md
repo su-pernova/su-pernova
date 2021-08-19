@@ -2,7 +2,7 @@
 
 🔭 **Studying** _ 웹개발(FE/BE), DataScience
 
-💬 **Interest** _ 그림, K-POP
+💬 **Interest** _ 그림, 애니메이션, K-POP
 
 📫 **Email** _ sumikim323@naver.com
  
