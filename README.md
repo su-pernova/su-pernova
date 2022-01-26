@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FF5A5F?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-5000B9?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
