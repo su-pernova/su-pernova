@@ -1,12 +1,8 @@
 🌱 **Major in** _ 국제한국학, 컴퓨터공학
 
-🔭 **Studying** _ 웹개발(FE/BE), DataScience
+🔭 **Studying** _ Web Developement(FE/BE)
 
-💬 **Interest** _ 그림, 애니메이션, K-POP
+💬 **Love** _ Drawing, K-POP
 
 📫 **Email** _ sumikim323@naver.com
  
-<!-- - 🤔 I’m looking for help with ...
-- 👯 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
