@@ -1,10 +1,10 @@
-•  **Major in** _ 국제한국학, 컴퓨터공학
+**Major in** / 국제한국학, 컴퓨터공학
 
-•  **Studying** _ Web Developement (FE/BE)
+**Studying** / Web Developement (FE,BE)
 
-•  **Love** _ Drawing, K-POP, Game
+**Love** / Drawing, K-POP, Game
 
-•  **Email** _ sumikim323@naver.com
+**Email** / sumikim323@naver.com
 
 <br>
 <h3> 👩🏻‍💻 Wanna know more about me? </h3>
