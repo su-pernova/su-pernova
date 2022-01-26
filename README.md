@@ -14,7 +14,7 @@
 <a href="https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
  
  
-<h3> 👩🏻‍💻 Technology Stack </h3>
+<h3> ⚙️ Technology Stack </h3>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
