@@ -7,8 +7,9 @@
 - **Email** _ sumikim323@naver.com
 
 👩🏻‍💻 Wanna know more about me?
+
 <a href="https://blog.naver.com/sumikim323"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Apple&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/Notion-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>
+<a href="https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
