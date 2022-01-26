@@ -8,8 +8,7 @@
 
 <h3> 👩🏻‍💻 Wanna know more about me? </h3>
 
-<a href="https://blog.naver.com/sumikim323"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Apple&logoColor=white&link=https://blog.naver.com/sumikim323"/></a> <nbsp><nbsp><nbsp>
-<a href="https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
+<a href="https://blog.naver.com/sumikim323"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Apple&logoColor=white&link=https://blog.naver.com/sumikim323"/></a><nbsp><nbsp><nbsp><a href="https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
  
  
 <h3> ⚙️ Technology Stack </h3>
