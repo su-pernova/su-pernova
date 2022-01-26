@@ -27,7 +27,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
-<h3> ⭐️ Let's Power up! </h3>
+<h3> ⭐️ Power UP </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumikim323)](https://solved.ac/sumikim323/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova)
