@@ -1,6 +1,6 @@
 **Major in** / 국제한국학, 컴퓨터공학
 
-**Studying** / Web Developement (FE,BE)
+**Studying** / Web Development (FE,BE)
 
 **Love** / Drawing, K-POP, Game
 
