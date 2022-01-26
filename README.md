@@ -1,10 +1,14 @@
-🌱 **Major in** _ 국제한국학, 컴퓨터공학
+- **Major in** _ 국제한국학, 컴퓨터공학
 
-🔭 **Studying** _ Web Developement(FE/BE)
+- **Studying** _ Web Developement(FE/BE)
 
-💬 **Love** _ Drawing, K-POP
+- **Love** _ Drawing, K-POP
 
-📫 **Email** _ sumikim323@naver.com
+- **Email** _ sumikim323@naver.com
+
+👩🏻‍💻 Wanna know more about me?
+<a href="https://blog.naver.com/sumikim323"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Apple&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
+<a href="링크걸_주소"><img src="https://img.shields.io/badge/Notion-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
