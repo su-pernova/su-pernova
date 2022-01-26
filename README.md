@@ -4,7 +4,7 @@
 
 **Love** / Drawing, K-POP, Game
 
-<hr border-width: 5px;>
+<hr style="border: solid 10px red;">
 
 <h3> 👩🏻‍💻 More Information </h3>
 
