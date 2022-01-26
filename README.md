@@ -4,8 +4,6 @@
 
 **Love** / Drawing, K-POP, Game
 
-**Email** / sumikim323@naver.com
-
 
 <h3> 👩🏻‍💻 More Information </h3>
 
