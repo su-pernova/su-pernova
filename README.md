@@ -17,6 +17,3 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-
-
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
