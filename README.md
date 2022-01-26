@@ -29,4 +29,4 @@
 
 <h3>기타</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova)
