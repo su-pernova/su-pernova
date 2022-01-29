@@ -24,14 +24,14 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
-<h3> 🔥 Studying </h3>
+<h3> 📘 Studying </h3>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
-<h3> ⭐️ Power up </h3>
+<h3> 🔥 Power up </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumikim323)](https://solved.ac/sumikim323/)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova&show_icons=true&include_all_commits=true&count_private=true) -->
