@@ -1,8 +1,8 @@
 **Major in** / 국제한국학, 컴퓨터공학
 
-**Studying** / Web Development (FE,BE)
+**Studying** / Web Development (BE)
 
-**Love** / Drawing, K-POP, Game
+**Love** / Game, Drawing, K-POP
 
 <h3> 👩🏻‍💻 More Information </h3>
 
