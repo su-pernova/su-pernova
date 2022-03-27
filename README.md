@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/C-005AF0?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-5000B9?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-FF5A5F?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Django-B31B1B?style=flat-square&logo=Django&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/JavaScript-FF5A5F?style=flat-square&logo=JavaScript&logoColor=white"/></a> -->
+
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
