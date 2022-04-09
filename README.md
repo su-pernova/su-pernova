@@ -6,7 +6,7 @@
 
 <h3> 👩🏻‍💻 More Information </h3>
 
-<a href="https://blog.naver.com/sumikim323"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
+<a href="https://agentsmith.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://agentsmith.tistory.com"/></a>
 <a href="mailto:sumikim323@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
 <!-- <a href="https://cat-tungsten-c56.notion.site/Sumi-Kim-b99604c2530b441ca6a99a3b97dc062f"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a> -->
  
