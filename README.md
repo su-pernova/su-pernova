@@ -5,7 +5,7 @@
 **Studying**
 
     • Web Development(BackEnd)
-    • Spring/Java
+    • Spring, Java
     • MicroService Architecture
 
 **FootPrint**
