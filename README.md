@@ -1,5 +1,3 @@
-<h3> 🌳 OverView </h3>
-
 **Major in**
 
     Sogang University / 국제한국학, 컴퓨터공학
