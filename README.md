@@ -1,23 +1,28 @@
+<h3> 🌳 OverView </h3>
+
 **Major in**
-- 서강대학교 국제한국학, 컴퓨터공학
+
+    Sogang University / 국제한국학, 컴퓨터공학
 
 **Studying**
-- Web Development(BackEnd)
-- Spring/Java
-- MicroService Architecture
+
+    • Web Development(BackEnd)
+    • Spring/Java
+    • MicroService Architecture
 
 **FootPrint**
 
-- **2021.04 ~ 2021.11** 서강대학교 멋쟁이사자처럼 웹개발 동아리
-- **2022.03 ~ 2022.08** 프로그래머스 백엔드 데브코스
-- **2022.04 ~ 2022.00** GentleEnergy Corp. DX Engineering 백엔드 인턴
+    • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹개발 동아리
+    • 2022.03 ~ 2022.08 / 프로그래머스 백엔드 데브코스
+    • 2022.04 ~ 2022.00 / GentleEnergy Corp. DX Engineering 백엔드 인턴
 
 <h3> 👩🏻‍💻 More Information </h3>
 
 <a href="https://agentsmith.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://agentsmith.tistory.com"/></a>
 <a href="mailto:sumikim323@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
 <!-- <a href="https://cat-tungsten-c56.notion.site/Sumi-Kim-b99604c2530b441ca6a99a3b97dc062f"><img src="https://img.shields.io/badge/Notion-0062AD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a> -->
- 
+
+<br>
  
 <h3> ⚙️ Technology Stack </h3>
 
@@ -32,6 +37,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
+<br>
 
 <h3> 📘 Studying </h3>
 
@@ -41,6 +47,7 @@
 <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> -->
 
+<br>
 
 <h3> 🔥 Power up </h3>
 
