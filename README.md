@@ -2,7 +2,10 @@
 
 **Studying** / Web Development (BE)
 
-**Love** / Game, Drawing, K-POP
+**FootPrint**
+/ 2021.04 ~ 2021.11 서강대학교 멋쟁이사자처럼 웹개발 동아리
+/ 2022.03 ~ 2022.08 프로그래머스 백엔드 데브코스
+/ 2022.04 ~ GentleEnergy Corp. DX Engineering 백엔드 인턴
 
 <h3> 👩🏻‍💻 More Information </h3>
 
