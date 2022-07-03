@@ -6,7 +6,6 @@
 
     • Web Development(BackEnd)
     • Spring, Java
-    • MicroService Architecture
 
 **FootPrint**
 
