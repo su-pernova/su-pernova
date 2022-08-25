@@ -24,13 +24,16 @@
 <img src="https://img.shields.io/badge/C-005AF0?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-5000B9?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-B31B1B?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-00087d?style=flat-square&logo=Flask&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-006eff?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 <h3> 📘 Studying </h3>
 
