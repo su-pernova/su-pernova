@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
-<h3> 🔥 Power up </h3>
+<!-- <h3> 🔥 Power up </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumikim323)](https://solved.ac/sumikim323/)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova&show_icons=true&include_all_commits=true&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova&show_icons=true&include_all_commits=true&count_private=true) -->
