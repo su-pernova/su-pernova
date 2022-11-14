@@ -6,7 +6,8 @@
 
     • Backend Server(API) Development
     • Spring Boot / Java
-    • RDBMS / NoSQL / AWS Public Cloud
+    • RDBMS / NoSQL
+    • Docker / AWS Public Cloud
 
 **FootPrint**
 
