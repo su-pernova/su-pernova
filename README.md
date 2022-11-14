@@ -4,8 +4,9 @@
 
 **Studying**
 
-    • Web Development(BackEnd)
-    • Spring, Java
+    • Backend Server(API) Development
+    • Spring Boot, Java
+    • RDBMS, NoSQL, AWS Public Cloud
 
 **FootPrint**
 
