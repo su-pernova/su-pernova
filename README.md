@@ -1,4 +1,4 @@
-<h3> 🌱 Major in </h3>
+<h3> 🌱 Major </h3>
 
     Sogang University / 국제한국학, 컴퓨터공학
 
