@@ -1,15 +1,15 @@
-**Major in**
+<h3> 🌱 Major in </h3>
 
     Sogang University / 국제한국학, 컴퓨터공학
 
-**Studying**
+<h3> 📚 Studying </h3>
 
     • Backend Server(API) Development
     • Spring Boot / Java
     • RDBMS / NoSQL
     • AWS Public Cloud / Docker / NGINX
 
-**FootPrint**
+<h3> 🐾 FootPrint </h3>
 
     • 2022.04 ~ 2022.08 / GentleEnergy Corp DX Engineering 백엔드 인턴
     • 2022.03 ~ 2022.08 / 프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 (2기)
@@ -20,6 +20,8 @@
 <a href="https://cat-tungsten-c56.notion.site/Sumi-Kim-d249f4170c484e0e9d8e42dbd989efd9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
 <a href="https://agentsmith.tistory.com"><img src="https://img.shields.io/badge/Blog-0062AD?style=flat-square&logo=Tistory&logoColor=white&link=https://agentsmith.tistory.com"/></a>
 <a href="mailto:sumikim323@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sumikim323"/></a>
+<br>
+<br>
  
 <h3> ⚙️ Technology Stack </h3>
 
@@ -36,12 +38,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-006eff?style=flat-square&logo=Docker&logoColor=white"/></a>
-
-<h3> 📘 Studying </h3>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-
 
 <!-- <h3> 🔥 Power up </h3>
 
