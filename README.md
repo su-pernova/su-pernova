@@ -4,7 +4,7 @@
 
 <h3> 📚 Studying </h3>
 
-    • Backend Server(API) Development
+    • Backend Development
     • Spring Boot / Java
     • RDBMS / NoSQL
     • AWS Public Cloud / Docker / NGINX
