@@ -1,6 +1,6 @@
 <h3> 🌱 Major </h3>
 
-    Sogang University / 국제한국학, 컴퓨터공학
+    Sogang University 국제한국학 & 컴퓨터공학
 
 <h3> 📚 Studying </h3>
 
