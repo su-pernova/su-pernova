@@ -1,10 +1,10 @@
 <div align="center">
     
-<!-- <h3> 🌱 Major </h3>
+<h3> Sumi Kim </h3>
 
-    • 2018.02 ~ 2023.02 / 서강대학교(Sogang Univ.) 국제한국학 & 컴퓨터공학
+    Junior Backend Developer
 
-<h3> 📚 Studying </h3>
+<!-- <h3> 📚 Studying </h3>
 
     • Backend Development
     • Spring Boot / Java
@@ -18,7 +18,7 @@
     • 2022.03 ~ 2022.08 / 프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 수강 (2기)
     • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹 개발 동아리 (9기) -->
 
-<h3> 🌿 Information </h3>
+<h3> Information </h3>
 
 <a href="https://cat-tungsten-c56.notion.site/Sumi-Kim-d249f4170c484e0e9d8e42dbd989efd9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Sumi-Kim-d52948749d2d40e5b27c16e539099ade"/></a>
 <a href="https://agentsmith.tistory.com"><img src="https://img.shields.io/badge/Blog-0062AD?style=flat-square&logo=Tistory&logoColor=white&link=https://agentsmith.tistory.com"/></a>
@@ -26,7 +26,7 @@
 <br>
 <br>
  
-<h3> ⚙️ Technology Stack </h3>
+<h3> Technology Stack </h3>
 
 <img src="https://img.shields.io/badge/C-005AF0?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-5000B9?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
