@@ -1,3 +1,5 @@
+<div align="center">
+    
 <!-- <h3> 🌱 Major </h3>
 
     • 2018.02 ~ 2023.02 / 서강대학교(Sogang Univ.) 국제한국학 & 컴퓨터공학
@@ -40,7 +42,4 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-006eff?style=flat-square&logo=Docker&logoColor=white"/></a>
 
-<!-- <h3> 🔥 Power up </h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumikim323)](https://solved.ac/sumikim323/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-pernova&show_icons=true&include_all_commits=true&count_private=true) -->
+</div>
