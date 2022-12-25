@@ -1,6 +1,6 @@
 <h3> 🌱 Major </h3>
 
-    • 2018.02 ~ 2023.02 / Sogang University 국제한국학 & 컴퓨터공학
+    • 2018.02 ~ 2023.02 / 서강대학교(Sogang Univ.) 국제한국학 & 컴퓨터공학
 
 <h3> 📚 Studying </h3>
 
