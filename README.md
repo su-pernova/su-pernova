@@ -1,6 +1,6 @@
 <div align="center">
     
-<h2> Sumi Kim </h2>
+<h2> 김수미 Sumi Kim </h2>
 
     Junior Backend Developer
 
