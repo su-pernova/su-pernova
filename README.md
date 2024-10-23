@@ -2,7 +2,7 @@
     
 <h2> 김수미 Sumi Kim </h2>
 
-    Junior Backend Developer
+    Backend Developer
 
 <!-- <h3> 📚 Studying </h3>
 
